@@ -1,13 +1,8 @@
-class Solution
-{
-
-// { Driver Code Starts
-
-
+/* Minimum operations required to make a matrix beautiful */
 #include <bits/stdc++.h>
 using namespace std;
-
- // } Driver Code Ends
+class Solution
+{
 
 public:
     int findMinOpeartion(vector<vector<int> > matrix, int n)
@@ -46,7 +41,6 @@ public:
     } 
 };
 
-// { Driver Code Starts.
 int main()
 {
     int t;
@@ -64,5 +58,3 @@ int main()
     }
     return 0;
 }
-
-  // } Driver Code Ends
