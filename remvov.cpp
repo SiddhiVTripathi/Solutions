@@ -1,3 +1,5 @@
+/* Remove vowels recursive solution */
+
 #include <iostream>
 using namespace std;
 
