@@ -1,3 +1,6 @@
+/*
+Given an array of integers and an integer k, move all occurences of k to the end of the array. Try to see if the order of the moved elements can be maintained
+*/
 #include <iostream>
 using namespace std;
 
